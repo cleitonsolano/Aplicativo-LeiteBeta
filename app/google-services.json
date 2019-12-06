@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "648367510183",
+    "firebase_url": "https://leitebom-4d72d.firebaseio.com",
+    "project_id": "leitebom-4d72d",
+    "storage_bucket": "leitebom-4d72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648367510183:android:058711a1450c04b9",
+        "android_client_info": {
+          "package_name": "br.com.leitebeta.leitebeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648367510183-dlokdgbjpca81u3gnvh4e9e6s3226tpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.leitebeta.leitebeta",
+            "certificate_hash": "220f7c90ad48e5f1a78ebe79fdbfe006c1685d56"
+          }
+        },
+        {
+          "client_id": "648367510183-uumammv67p3o3d40em5700ijnfmftsbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsnF8evR4jhBGo7NKhIL8uKp9EW2HIG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648367510183-uumammv67p3o3d40em5700ijnfmftsbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

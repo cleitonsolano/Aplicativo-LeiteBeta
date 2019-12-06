@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/preco"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Preços" />
+
+    <item
+        android:id="@+id/producao"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Produções" />
+
+    <item
+        android:id="@+id/qualidade"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="Qualidades" />
+
+</menu>
